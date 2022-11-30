@@ -1,0 +1,109 @@
+$ cd alx-pre_course
+
+
+
+ 
+
+
+
+~/alx-pre_course (main)
+
+
+
+$ git merge update-script
+
+
+
+merge: update-script - not something we can merge
+
+
+
+ 
+
+
+
+~/alx-pre_course (main)
+
+
+
+$ git merge update_script
+
+
+
+Already up to date.
+
+
+
+ 
+
+
+
+~/alx-pre_course (main)
+
+
+
+$ git commit –m  “Cool, all my changes will be now part of the main branch, ready to be deployed!”
+
+
+
+bash: !”: event not found
+
+
+
+ 
+
+
+
+~/alx-pre_course (main)
+
+
+
+$ git commit -m  'Cool, all my changes will be now part of the main branch, ready to be deployed!'
+
+
+
+On branch main
+
+
+
+Your branch is up to date with 'origin/main'.
+
+
+
+ 
+
+
+
+nothing to commit, working tree clean
+
+
+
+ 
+
+
+
+~/alx-pre_course (main)
+
+
+
+$ git add .
+
+
+
+ 
+
+
+
+ 
+
+
+
+ ~/alx-pre_course (main)
+
+
+
+$ git push
+
+
+
+Everything up-to-date
